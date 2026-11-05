@@ -1,0 +1,16 @@
+{
+  "name": "TreatCheck",
+  "short_name": "TreatCheck",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#100a17",
+  "theme_color": "#100a17",
+  "icons": [
+    {
+      "src": "/treatcheck.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
